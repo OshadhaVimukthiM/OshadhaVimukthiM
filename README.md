@@ -11,6 +11,8 @@
 
 
 ### Now Playing 🎶🎶
+<br>
+<br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wgxcdzjap3e7ld7d4trie2v36i&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31wgxcdzjap3e7ld7d4trie2v36i&redirect=true)
 
