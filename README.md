@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and PHP**
 
-- 📫 How to reach me **oshadhavimukthi93@gmail.com**
+- 📫 How to reach me **admin@oshadha.net**
 
 - ⚡ Fun fact **I'm 19**
 
