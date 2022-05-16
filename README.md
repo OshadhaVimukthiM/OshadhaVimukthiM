@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I'm 19**
 
-- 🌀 Website **Oshadha.net**
+- 🌀 Website <a href="https://oshadha.net/">Oshadha.net</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
