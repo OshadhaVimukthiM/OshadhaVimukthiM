@@ -11,7 +11,7 @@
 - 🌀 Website <a href="https://oshadha.net/">**Oshadha.net**</a>
 
 <p align="left">
-  img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
