@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Oshadha</h1>
-<img src="" alt="SVG" class="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka"><br>
 </p>
