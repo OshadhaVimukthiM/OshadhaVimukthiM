@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oshadha</h1>
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Frontend+developer+from+Sri+Lanka" alt="SVG" class="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka" alt="SVG" class="center">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadhavimukthim" alt="oshadhavimukthim" /></a> </p>
 
