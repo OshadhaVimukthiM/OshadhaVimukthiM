@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oshadha</h1>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka" alt="SVG" class="center">
+<img src="" alt="SVG" class="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka"><br>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadhavimukthim" alt="oshadhavimukthim" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadhavimukthim" alt="oshadhavimukthim" /></a> </p>
 
 - 🌱 I’m currently learning **Python and PHP**
 
