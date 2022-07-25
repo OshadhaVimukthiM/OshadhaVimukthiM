@@ -20,7 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadhavimukthim&show_icons=true&locale=en" alt="oshadhavimukthim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshadhavimukthim&" alt="oshadhavimukthim" /></p>
-
-##Playlist
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7ChuGcaAAumbzjFJlH35Lc?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
