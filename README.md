@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I'm 19**
 
-- 🌀 Website <a href="https://oshadha.net/">**Oshadha.net**</a>
+- 🌀 Website <a href="https://oshadha.ga/">**Oshadha.ga**</a>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka">
