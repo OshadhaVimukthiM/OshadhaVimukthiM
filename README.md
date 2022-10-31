@@ -21,6 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshadhavimukthim&" alt="oshadhavimukthim" /></p>
 
-<h3 align="left">Spotify</h3>
+<h3 align="left">Spotify:</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31stuahwrhycteginp63r722frrq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31stuahwrhycteginp63r722frrq&redirect=true)
