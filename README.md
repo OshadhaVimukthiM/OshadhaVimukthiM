@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadhavimukthim" alt="oshadhavimukthim" /></a> </p>
 
+<img src="[https://i.ibb.co/vvsqjdQ/giphy.gif](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka)">
+
 - 🌱 I’m currently learning **Python and PHP**
 
 - 📫 How to reach me **admin@oshadha.xyz**
@@ -9,9 +11,6 @@
 - ⚡ Fun fact **I'm 19**
 
 - 🌀 Website <a href="https://oshadha.ga/">**Oshadha.ga**</a>
-
-<img src="[https://i.ibb.co/vvsqjdQ/giphy.gif](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka)">
-
 
 <p align="center">
   <img src="https://i.ibb.co/vvsqjdQ/giphy.gif">
