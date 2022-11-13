@@ -19,10 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oshadhavimukthim&show_icons=true&locale=en" alt="oshadhavimukthim" /></p>
 
-<p align="center">
-  <img src="https://i.ibb.co/vvsqjdQ/giphy.gif>
-</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshadhavimukthim&" alt="oshadhavimukthim" /></p>
 
 <h3 align="left">Spotify:</h3>
