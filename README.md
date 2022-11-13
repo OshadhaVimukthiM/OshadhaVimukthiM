@@ -10,11 +10,11 @@
 
 - 🌀 Website <a href="https://oshadha.ga/">**Oshadha.ga**</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka">
+<img src="https://i.ibb.co/vvsqjdQ/giphy.gif">
 
 
 <p align="center">
-  <img src="https://i.ibb.co/vvsqjdQ/giphy.gif">
+  <img src="[https://i.ibb.co/vvsqjdQ/giphy.gif](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka)">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
