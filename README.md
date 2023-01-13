@@ -1,85 +1,24 @@
-<style>
-    .subscribe-button {
-        background-color: rgb(200, 0, 0);
-        color: white;
-        border: none;
-        margin-left: 20px;
-        margin-right: 8px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        padding-left: 16px;
-        padding-right: 16px;
-        border-radius: 2px;
-        cursor: pointer;
-        vertical-align: top;
-        transition: opacity 0.15s;
-    }
+<h1 align="center">Hi 👋, I'm Oshadha</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oshadhavimukthim" alt="oshadhavimukthim" /></a> </p>
 
-    .subscribe-button:hover {
-        opacity: 0.8;
-    }
+<img src="[https://i.ibb.co/vvsqjdQ/giphy.gif](https://readme-typing-svg.herokuapp.com?size=24&color=F70000&lines=Developer+from+Sri+Lanka)">
 
-    .subscribe-button:active {
-        opacity: 0.5;
-    }
+- 🌱 I’m currently learning **Python and PHP**
 
-    .join-button {
-        background-color: white;
-        border-color: rgb(41, 118, 211);
-        border-style: solid;
-        border-width: 1px;
-        color: rgb(41, 118, 211);
-        margin-right: 8px;
-        padding-top: 9px;
-        padding-bottom: 9px;
-        padding-left: 16px;
-        padding-right: 16px;
-        border-radius: 2px;
-        cursor: pointer;
-        vertical-align: top;
-        transition: background-color 0.15s,
-         color 0.15s;
-    }
+- 📫 How to reach me **admin@oshadha.xyz**
 
-    .join-button:hover {
-        background-color: rgb(41, 118, 211);
-        color: white;
-    }
+- ⚡ Fun fact **I'm 20**
 
-    .join-button:active {
-        opacity: 0.7;
-    }
+- 🌀 Website <a href="https://oshadha.ga/">**Oshadha.ga**</a>
 
-    .tweet-button {
-        background-color: rgb(2, 158, 255);
-        color: white;
-        border: none;
-        padding-top: 9px;
-        padding-bottom: 9px;
-        padding-left: 16px;
-        padding-right: 16px;
-        border-radius: 18px;
-        font-weight: bold;
-        font-size: 15px;
-        cursor: pointer;
-        margin-right: 8px;
-        vertical-align: top;
-        transition: box-shadow 0.15s;
-    }
+<p align="center">
+  <img src="https://i.ibb.co/vvsqjdQ/giphy.gif">
+</p>
 
-    .tweet-button:hover {
-        box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.18);
-    }
-</style>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<button class="subscribe-button">
-    SUBSCRIBE
-</button>
+<h3 align="left">Spotify:</h3>
 
-<button class="join-button">
-    JOIN
-</button>
-
-<button class="tweet-button">
-    Tweet
-</button>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31stuahwrhycteginp63r722frrq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31stuahwrhycteginp63r722frrq&redirect=true)
