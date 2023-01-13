@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" style="width: 60%" />
+<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="left">I'm Oshadha, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
@@ -20,9 +20,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OshadhaVimukthiM&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=OshadhaVimukth7)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
