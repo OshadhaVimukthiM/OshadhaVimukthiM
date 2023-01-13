@@ -1,3 +1,5 @@
+## <div align="center">I'm Oshadha, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  ### <div align="center">I'm Oshadha, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+
 # 💫 About Me:
 🔭 I’m currently working on OPEN LABS LK<br>🌱 I’m currently learning UI/UX and Python<br>❓ Ask me about anything related to MERN stack and related technologies<br>⚡ Fun fact: I use tabs over spaces
 
